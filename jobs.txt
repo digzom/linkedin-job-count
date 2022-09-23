@@ -1,0 +1,312 @@
+Desenvolver, testar e documentar funcionalidades;
+Trabalhar com desenvolvedores para desenhar algoritmos limpos, eficientes e baseados em especificações;
+Integrar componentes de software e programas terceiros;
+Pré-identificar pontos de melhoria no código e na arquitetura para melhorar a experiência dos usuários;
+Colaborar com restante da equipe de desenvolvimento para entregar novos produtos;
+Colaborar na manutenção de CI/CD;
+
+Requisitos:
+
+Ter experiência prática com linguagens de programação funcionais, Elixir, Ruby ou outra stack de desenvolvimento moderna;
+Ter entendimento do fluxo de todo o processo web de desenvolvimento (desenho, desenvolvimento e implementação);
+Ter experiência com banco de dados Postgres SQL;
+Ter experiência com testes unitários e de integração;
+Utilizar ferramentas de controle versão.
+
+Como será seu dia a dia:
+Escrever código limpo, de fácil manutenção, utilizando as melhores práticas de desenvolvimento de software;
+Procurar sempre criar para os produtos Globo a melhor experiência de uso para o usuário final, trabalhando de perto com os especialistas em UX;
+Atuar como um team-player, comprometendo-se com os objetivos do time e trabalhando em harmonia com todos;
+Estar sempre crescendo e se desenvolvendo tecnicamente e profissionalmente;
+Participar de times geograficamente distribuídos.
+
+Do que você precisa:
+Ter habilidades em algoritmos e estruturas de dados;
+Conhecimento em engenharia de software, como princípios, boas práticas e padrões de arquitetura; Experiência com desenvolvimento de Aplicações Escaláveis;
+Vivência com algumas linguagens de programação como: Python, Golang, Java, Ruby, Elixir, Scala, Clojure, C/C++, C#, JavaScript, etc.;
+Prática com as ferramentas de versionamento (como GIT, SVN, etc.);
+Experiência em escrever testes;
+Conhecimento em bancos de dados MySQL, SQL, MongoDB, Oracle, etc.);
+Vivência com metodologias ágeis.
+
+﻿Conhecimentos que te destacam:
+Experiência com Cloud, como AWS e Google Cloud Platform.
+
+Conhecimento e experiência com Flutter;
+Bom embasamento teórico, habilidade e preocupação com a excelência técnica e domínio de assuntos como DDD, arquitetura, design de código, paradigmas, etc;
+Experiência prévia em linguagens funcionais, como Elixir;
+Participação ativa em comunidades de Tecnologia (palestras, meetups, eventos, tech talks, podcast).
+Conhecimento em boas práticas DevOps;
+
+Experiência em desenvolvimento de software;
+Conhecimento de arquitetura de software;
+Experiência com Banco de Dados (Postgresql, SLQ Server, Oracle e/ou outros);
+Experiência com mensageria (Kafka, RabbitMQ e/ou outros);
+Capacidade de produzir código limpo e de fácil manutenção;
+Familiaridade com Git;
+Motivação por aprendizado e desenvolvimento contínuos;
+Capacidade de se comunicar de forma concisa, franca e clara (também por escrito).
+
+Experiência com linguagens funcionais (ex.: Elixir, Erlang, Clojure, Lisp);
+Experiência com Phoenix, Ecto, Oban, Umbrella Applications e/ou Releases OTP (Elixir);
+Contribuições em projetos open source;
+Experiência em projetos voltados para a área financeira;
+Experiência com aplicações críticas e de alta disponibilidade;
+Experiência com Docker e Kubernetes em produção.
+
+Conhecimentos de Programação Orientada à Objetos;
+Metodologias de programação como: TDD ou BDD;
+Consumo de APIs Web;
+Conhecimento de algoritmos e estrutura de dados.
+
+Conhecimento de programação funcional;
+Conhecimento de Elixir com Phoenix Framework ou Ruby on Rails;
+Amazon Web Services;
+Conhecimento de arquitetura de Micro Serviços;
+Noção de arquitetura orientada a filas/eventos;
+Continuous Integration e Continuous Delivery;
+Trabalhar com metodologias ágeis como SCRUM e KANBAN.
+
+Entender de pelo menos uma linguagem. Queremos que entenda o funcionamento do compilador, do runtime e todos os pormenores de deploy e ecossistema;
+Databases relacionais (MySQL, Postgres, SQL Server, etc.);
+Experiência, ainda que pequena, com NoSQL;
+Utilização de métodos iterativos e incrementais para entrega de software;
+Testes automatizados (unit tests, integration tests, regression tests e outros), TDD ou BDD;
+Versionamento de código com Git e GitHub.
+
+Experiência com Vue, Angular, React, ou outros frameworks para frontend;
+Experiência publicando e consumindo APIs;
+Experiência com GraphQL;
+Familiaridade com AWS e outras tecnologias de cloud;
+Conhecimento de todo o lifecycle de criação e sustentação de software.
+Habilidade para resolver problemas complexos com soluções simples e elegantes.
+
+Sólida experiência em desenvolvimento Java, Kotlin, Ruby (e não só Rails), PHP, .Net, Elixir ou Scala;
+Habilidade em desenvolver e implementar APIs;
+Vivência em desenvolvimento de Microsserviços distribuídos;
+Embasamento teórico, habilidade e preocupação com a excelência técnica e boas práticas de desenvolvimento (DDD, TDD, arquitetura, design de código, paradigmas, etc.);
+Familiaridade com metodologias ágeis;
+Participação ativa em comunidades de Tecnologia (palestras, meetups, eventos, tech talks, blogs) é um diferencial, como forma de disseminar o conhecimento;
+Pragmatismo para resolução de problemas.
+
+Elixir;
+Experiência com integração de sistemas com terceiros;
+Webservices / REST;
+GIT;
+Banco de Dados (Postgres ou MySQL);
+Cloud (AWS ou Google Cloud);
+TDD / BDD;
+Linux;
+Processamento e Batch / Mensageria;
+OOP e Design Patterns;
+Docker;
+NoSQL;
+Redis ou Memcached;
+Serverless;
+
+At least 3+ years of software development experience.
+Strong knowledge of Elixir or Erlang.
+Diverse background in Functional Programming.
+Experience in solving more complex distributed system problems.
+Experience with CI/CD/CT tools.
+Experience with RESTful APIs.
+Experience with Linux and AWS.
+
+Typescript/Node/NestJS/React
+PHP/Laravel
+Terraform/AWS and Microsoft Azure
+MySQL/Postgres
+Kubernetes/ECS/SQS/VPC/IAM/Redis/CodePipeline
+GitHub Actions/CircleCI
+iOS Core Location, Android Location, Google Maps, ESRI, OpenStreetMap
+
+Strong written and verbal communication skills.
+Solid foundation in object-oriented programming
+Experience developing location services for web or mobile applications
+Experience with designing and using relational databases
+Experience working with docker and container orchestration services
+Experience with Linux/Unix operating systems
+Experience in any of the following frameworks: PHP Laravel, .Net, Ruby on Rails, Python Django, Java Spring, Next.js, Elixir Phoenix, Rust Rocket
+Experience with React/Angular/Vue/Swift/Kotlin/iOS/Android is a plus
+
+Mínimo 4 anos de experiência com Desenvolvimento de Software
+Domínio em linguagem Elixir ou C#
+Conhecimento em Phoenix ou .NET
+Conhecimento em banco de dados Postgre SQL
+Experiência em RESTful Web Services e AWS Services (EC2, S3)
+Entendimento sobre algoritmos e estrutura de dados
+
+AWS;
+DDD (Domain-Driven Design);
+Experiência com SCRUM;
+Experiência com linguagens como Scala, Closure, Elixir.
+
+Inglês (recentemente também começamos a contratar brasileiros não fluentes no inglês)
+
+Odiar códigos mal construídos, ineficientes e insustentáveis
+
+Experiência com frameworks de unit testing, consumir APIs de back-end
+
+Conhecimentos fundamentais sólidos em Ciência da Computação (algoritmos, estrutura de dados, concorrência, etc.) — preferencialmente, diploma em Ciência da Computação ou Engenharia de Software.
+
+Jr. / Mid / Sr.
+
+2+ / 4+ / 6+ de experiência em desenvolvimento de produtos digitais em um time de engenheiros, idealmente utilizando NodeJS
+
+2+ / 4+ / 6+ anos de experiência em SQL e/ou NoSQL DIFERENCIAIS:
+
+Conhecimento em development em Go, Elixir
+
+Experiência em Elasticsearch, arquitetura de microservices, GraphQL
+
+Experiência e interesse em trabalhar com Kubernetes, Amazon Web Services, Plataforma Google Cloud
+
+Experiência com React, Next, Web Design responsivo, padrões e soluções de gerenciamento de estado (ex:. Redux), ES2015+, HTML5 APIs e CSS3
+
+Experiência com Web Standards (HTML5, CSS3) Semantic HTML, CSS preprocessors
+
+Experiência de trabalho com Integração contínua/Deployment
+
+Experiência trabalhando independentemente ou em time remoto
+
+Experiência de trabalho com comunidades open source ou contribuições com algum projeto open source
+
+Fundamentos de ciência de computação;
+Práticas de programação funcional (experiência com alguma linguagem funcional Scala, Clojure, Elixir, Haskell);
+Experiência em desenvolvimento de sistemas web;
+Conhecimento de padrões de arquitetura;
+Experiência com Microserviços – Arquitetura, modelagem e construção;
+Experiência com AWS;
+Experiência com testes;
+Experiência com desenvolvimento e consumo de APIs (GraphQL ou REST);
+Conhecimento dos diferentes tipos de bancos de dados e suas características;
+Experiência com mensageria assíncrona;
+Uso de ferramentas de controle de versão (Git).
+
+Graduado em Ciências da Computação, Tecnologia da Informação, Engenharia da Computação ou correlatas.
+Experiência em projetos de desenvolvimento de software.
+Python.
+Dart / Flutter.
+Elixir.
+C# /.Net.
+Angular / TypeScript.
+MySQL, Mongo, Postgres.
+Sistema Windows, Linux, Powershell/Bash, Máquina virtual.
+Cloud Azure.
+Git, SonarQube, Docker, Kubernetes;
+HL7, FHIR;
+Code review, unit test, TDD, DDD;
+
+4+ years of experience building, deploying and maintaining full-stack web applications
+Understanding of building production-ready web applications and systems
+Fluency with any of Ruby, Elixir, Erlang, Go, Node.js, Python, PHP, +Net or Scala. Ruby and Elixir are our primary languages
+GraphQL, Kubernetes, Serverless is a plus
+Verbal and written communication skills
+Ability to create cohesive relationships with your teammates in and outside the development team
+Desire to improve and uplift everyone around you
+Bachelor's degree in Engineering, Computer Science or equivalent experience
+
+PHP - CakePHP, Laravel
+NodeJs / Elixir
+Javascript - ReactJs, AngularJs
+Banco de dados: PostgreSQL / PostGIS / Realm
+Android: Java / Kotlin
+Google Earth Engine
+AWS / GCP
+
+Fundamentos de ciência de computação;
+Práticas de programação funcional (experiência com alguma linguagem funcional é um BÔNUS - Scala, Clojure, Elixir, Haskell, etc);
+Experiência em desenvolvimento de sistemas web;
+Conhecimento de padrões de arquitetura;
+Experiência com testes;
+Experiência com desenvolvimento e consumo de APIs (GraphQL ou REST);
+Conhecimento em banco relacional e não relacional;
+Experiência com mensageria assíncrona (Kafka, Azure, RabbitMQ);
+Uso de ferramentas de controle de versão (Git).
+
+Paradigma Funcional - Scala & framework ZIO.
+Bancos relacional e não relacional - MySQL e DynamoDB
+Mensageria - Kafka
+
+Scripts em Python;
+Manutenção de ambientes GNU/Linux;
+Automações e provisionamentos (Docker, Ansible, Jenkins, Gitlab);
+Gerenciamento de bancos relacionais (MySQL, MariaDB ou PostgreSQL);
+Git (ou Mercurial);
+Leitura e escrita em inglês;
+Boa comunicação técnica com sua equipe em português.
+
+Fluência geral em inglês;
+Participação em projetos open source;
+Metodologia Ágil;
+Noções de telefonia (SIP, WebRTC, FreeSWITCH etc);
+Agendamento de tarefas assíncronas (com RabbitMQ e Celery);
+Bancos de cache (Redis);
+Elixir.
+
+Experiência em Flutter;
+Experiência em pelo menos uma plataforma nativa Android ou IOS;
+Conhecimentos em arquitetura mobile;
+Conhecimento de boas práticas de qualidade como clean code e clean architecture;
+Participação em times multidisciplinares de desenvolvimento de software;
+Experiência com testes automatizados (unitário & integração);
+Experiência com versionamento de código com Gitlab e/ou Github;
+Conhecimento em infraestrutura em nuvem na AWS ou equivalente;
+Conhecimento de algoritmos e estrutura de dados;
+Capacidade de trabalhar em um ambiente multifuncional e colaborativo, de maneira autônoma.
+
+Será um diferencial, caso você conheça:
+
+
+Vivência em times ágeis (Scrum, Kanban, etc);
+Conhecimento de ferramentas de CI/CD;
+Domínio de subida de aplicativo nas lojas Google e Apple;
+Conhecimento de APIs Rest;
+Linguagem funcional Elixir;
+Conhecimentos em Firebase;
+DevOps (uso de terminal Linux, containers docker, processos de build e deploy automatizados, monitoria).
+
+7-9 years of experience
+Proficient in a statically typed language such as Go, C#, Java, or C++
+Experienced in Go, Elm, Ember, Ember CLI, and/or PostgreSQL
+Experience in a functional programming language such as Elm, Haskell, OCaml, Clojure or Elixir
+Experience with a relational database
+Familiarity with functional programming concepts
+Working knowledge of JavaScript and web application development best practices
+Ability to be the implementation lead for features - participating in product ideation
+Able to deliver medium to large scale changes across multiple systems
+Contribute and collaborate on story writing to shape product features
+Proactive problem-solver, able to identify problems and discover root causes
+Experience performing technical backlog refinement and proposing solutions to improve a story/feature
+Clear, concise written and verbal communication skills
+Advocates for both internal and external customers
+Self-managed and self-driven with the ability to collaborate with internal and external stakeholders
+Exhibit a strong desire to learn & contribute to the team's development techniques and standards
+
+
+Conhecimento avançado na linguagem de programação Python;
+
+Conhecimento ou interesse na linguagem de programação Elixir;
+
+Capacidade de resolver problemas através da criação de produtos de software ou melhoria de produtos existentes;
+
+Noções de padrões de projetos e principios de arquitetura;
+
+Conhecimento de práticas de qualidade de código (TDD, BDD, Clean Code, Code Review);
+
+Experiência em SQL e modelagem de dados relacional;
+
+Experiência com desenvolvimento de APIs e micro-serviços;
+
+Noções de sistemas de filas e mensageria (SQS/Kafka, por exemplo);
+
+Conhecimento de práticas de Continuous Integration / Continuous Delivery (CL/CD);
+
+Experiência no desenvolvimento de soluções com o uso de metodologias ágeis (SCRUM/KANBAN);
+
+Habilidade de desenhar/projetar/organizar/construir soluções com a utilização de boas práticas de arquitetura e codificação;
+
+Experiência com AWS ou ambientes de cloud computing similares.
+
+
+

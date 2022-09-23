@@ -1,0 +1,7 @@
+Ter habilidades em algoritmos e estruturas de dados;
+Conhecimento em engenharia de software, como princípios, boas práticas e padrões de arquitetura; Experiência com desenvolvimento de Aplicações Escaláveis;
+Vivência com algumas linguagens de programação como: Python, Golang, Java, Ruby, Elixir, Scala, Clojure, C/C++, C#, JavaScript, etc.;
+Prática com as ferramentas de versionamento (como GIT, SVN, etc.);
+Experiência em escrever testes;
+Conhecimento em bancos de dados MySQL, SQL, MongoDB, Oracle, etc.);
+Vivência com metodologias ágeis.
