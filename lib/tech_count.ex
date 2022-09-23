@@ -12,6 +12,7 @@ defmodule TechCount do
       |> downcase_words()
       |> Enum.frequencies()
       |> Enum.filter(fn {item, _count} -> Enum.member?(included_words, item) end)
+      |> Enum.sort_by(fn {_item, count} -> count end, :desc)
 
     word_count
   end
@@ -47,4 +48,7 @@ defmodule TechCount do
 
     File.write!("./otherfile.txt", counting)
   end
+
+  # def group_by_relation(ordered_jobs) do
+  # end
 end
